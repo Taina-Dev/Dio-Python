@@ -76,7 +76,7 @@ def criar_conta(contas, usuarios):
         print("Conta criada com sucesso.")
     else:
         print("Usuário não encontrado.")
-#Crie a Funcao Localizar conta bancaria Estou com uma idia de projeto final e quero apromorara as possibilidades com essa basde 
+#Crie a Funcao Localizar conta bancaria
 def buscar_conta_bancaria(contas):
     numero_conta = int(input("Digite o número da conta: "))
     for conta in contas:
