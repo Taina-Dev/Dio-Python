@@ -80,7 +80,9 @@ linguagem = "Python"
 print("Ola, me chama %s. Tenho %d anos de idade , trabalho como %s e estou aprendendo uma loguamgem nova a de %s." % (nome, idade, profissao, linguagem))
 print(f"Ola, me chama {nome}. Tenho {idade} anos de idade , trabalho como {profissao} e estou aprendendo uma loguamgem nova a de {linguagem}.") """
 
-curso = "  taina "
+""" curso = "  taina "
 print(curso.strip())
 curso = "Python"                                                     
-print(curso[::-1]) 
+print(curso[::-1])  """
+
+set([1,1,2,33,4,5,4,4])
