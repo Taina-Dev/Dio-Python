@@ -74,4 +74,4 @@ cursor.execute(f"SELECT * FROM clientes WHERE id=?", (id_cliente,))
 clientes = cursor.fetchall()
 
 for cliente in clientes:
-  print(cliente)   """
+print(cliente)   """
